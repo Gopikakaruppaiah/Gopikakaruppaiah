@@ -170,20 +170,8 @@ Executive Coordinator, Treasure Hunt — Kanam 26, National Level Intercollegiat
 
 <br>
 
-## 08 / GITHUB ACTIVITY
 
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Gopikakaruppaiah&show_icons=true&hide_border=true&bg_color=1B1B1B&title_color=D98E48&icon_color=D98E48&text_color=C9C9C9" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopikakaruppaiah&layout=compact&hide_border=true&bg_color=1B1B1B&title_color=D98E48&text_color=C9C9C9" />
-
-</div>
-
-<br>
-
----
-
-## 09 / CONNECT
+## 08 / CONNECT
 
 <div align="center">
 
